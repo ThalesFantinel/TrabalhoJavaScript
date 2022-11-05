@@ -1,0 +1,59 @@
+html{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to bottom, #10df43, rgb(8, 91, 40));
+  }
+  
+  .button{
+      width: 66px;
+      padding: 20px;
+      margin: 0 3px;
+      border: 2px solid black;
+      cursor: pointer;
+      border-radius: 15px;
+  }
+  
+  #fundo{
+      background-color: white;
+      width: 320px;
+      border-radius: 15px;
+      margin: auto;
+      text-align: center;
+      border: 5px solid black;
+  }
+  
+  #igual{
+      width: 142px;
+  }
+  
+  #apagar{
+      width: 66px;
+  }
+  
+  #final{
+      padding-bottom: 10px;
+  }
+  
+  .linhas{
+    margin: 10px;
+  }
+  
+  .linhas input{
+      width: 291px;
+      font-size: 20px;
+      margin: 0;
+      padding: 10px 0px;
+      border: 2px solid black;
+  }
+  
+  #funcao{
+      font-size: 15px;
+  }
+  
+  #apagar{
+      background-image: linear-gradient(to bottom, #ff6060, rgb(255, 21, 0));
+  }
+  
+  #igual{
+      background-image: linear-gradient(to bottom, #10df43, rgb(8, 91, 40));
+  }
